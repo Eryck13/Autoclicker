@@ -1,0 +1,5 @@
+{
+    "Channel": "channelID",
+    "Token": "userToken",
+    "LinkKeyword": "cybersole"
+}
