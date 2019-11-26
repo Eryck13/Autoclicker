@@ -13,5 +13,4 @@ pip install discord
 
 pip install datetime
 
-pip install sys-os
 
