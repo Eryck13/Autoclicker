@@ -8,5 +8,7 @@ Download python 3.7
 Install these modules:
 
 pip install selenium
+
 pip install discord
+
 pip install datetime
